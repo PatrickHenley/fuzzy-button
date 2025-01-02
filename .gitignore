@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+*.xcuserdatad
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/
+Packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
