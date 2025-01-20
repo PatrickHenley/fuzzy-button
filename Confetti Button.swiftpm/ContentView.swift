@@ -16,7 +16,7 @@ struct ContentView: View {
                     .frame(width: 50, height: 50) // Custom size
                     .foregroundColor(.pink)
                     .padding(10)
-                Text("My First App!")
+                Text("Yay!!!")
                     .bold()
                     .font(.largeTitle)
                     .colorInvert()
